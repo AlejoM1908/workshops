@@ -12,8 +12,8 @@ Esto es una plantilla de GoHugo diseñada especificamente para subir los proyect
 Instale el controlador de servidores [gohugo](https://gohugo.io/) entonces:
 
 ```sh
-$git clone https://github.com/jussilvaca/jussilvaca.github.io.git
-$cd jussilvaca.github.io
+$git clone https://github.com/alejom1908/alejom1908.github.io.git
+$cd alejom1908.github.io
 $git submodule update --init --recursive
 $hugo server -D --disableFastRender
 ```

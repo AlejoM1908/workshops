@@ -4,11 +4,11 @@
 
 Rectangulos en rotación
 
-{{<p5-iframe ver="1.4.2" sketch="/sketches/rotating_rectangles.js" >}}
+{{<p5-iframe ver="1.4.2" sketch="/workshops/sketches/rotating_rectangles.js" >}}
 
 Rejilla Trapezoidal
 
-{{<p5-iframe ver="1.4.2" sketch="/sketches/trapezoidal_grid.js" >}}
+{{<p5-iframe ver="1.4.2" sketch="/workshops/sketches/trapezoidal_grid.js" >}}
 
 ## Kernels de imagenes
 
@@ -23,4 +23,4 @@ Rejilla Trapezoidal
 | R | Resetear imagen |
 {{< /details >}}
 
-{{<p5-iframe ver="1.4.2" sketch="/sketches/convolutions.js" >}}
+{{<p5-iframe ver="1.4.2" sketch="/workshops/sketches/convolutions.js" >}}
