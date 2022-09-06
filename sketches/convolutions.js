@@ -6,11 +6,11 @@ let sharpenKernel = [0, -1, 0, -1, 5, -1, 0, -1, 0];
 let verticalEdge = [-3, -10, -3, 0, 0, 0, 3, 10, 3];
 let sobelKernel = [-1, -2, -1, 0, 0, 0, 1, 2, 1];
 let imagesNames = [
-    '/assets/image/hero.jpeg',
-    '/assets/image/cave.jpeg',
-    '/assets/image/figth.jpeg',
-    '/assets/image/rain.jpeg',
-    '/assets/image/sword.jpeg',
+    '/workshops/assets/image/hero.jpeg',
+    '/workshops/assets/image/cave.jpeg',
+    '/workshops/assets/image/figth.jpeg',
+    '/workshops/assets/image/rain.jpeg',
+    '/workshops/assets/image/sword.jpeg',
 ];
 
 let histogram;
@@ -27,7 +27,7 @@ let imageSelector = 0;
 let brightness = 1;
 
 function preload() {
-    currFont = loadFont("/assets/font/Lato-Regular.ttf");
+    currFont = loadFont("/workshops/assets/font/Lato-Regular.ttf");
     textMessage = 'Original';
     showHistogram = false;
 
