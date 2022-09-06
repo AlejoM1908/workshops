@@ -1,4 +1,4 @@
-baseURL = 'https://alejom1908.github.io/'
+baseURL = 'https://alejom1908.github.io/Workshops'
 languageCode = 'en-us'
 title = 'Visual Computing Workshops'
 theme="hugo-book"
