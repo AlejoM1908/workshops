@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL = 'https://alejom1908.github.io/Workshops'
-=======
 baseURL = 'https://alejom1908.github.io/workshops'
->>>>>>> Adding GH Pages final URL
 languageCode = 'en-us'
 title = 'Visual Computing Workshops'
 theme="hugo-book"
