@@ -1,0 +1,9 @@
+/public/
+/resources/_gen/
+# Backup Files
+*.md~
+# Logs
+*.log
+.hugo_build.lock
+
+.vscode/
