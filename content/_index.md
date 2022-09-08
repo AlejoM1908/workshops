@@ -19,3 +19,7 @@ $hugo server -D --disableFastRender
 ```
 
 Ingrese a su servidor local ingresando localhost:1313 en algun buscador de su preferencia
+
+## Integrantes del equipo
+
+[Daniel Alejandro Melo Nuvan](https://github.com/AlejoM1908)
